@@ -5,7 +5,7 @@
 
 ## Release
 You can download at
-![Releases](https://github.com/PePoDev/DontTouchMyBaby_GGJ_2019/releases/) Page
+[Releases](https://github.com/PePoDev/DontTouchMyBaby_GGJ_2019/releases/) Page
 ---
 ## Screenshot
 ![Screenshot](Screenshots/Screenshot-1.png)
